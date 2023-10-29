@@ -1,4 +1,4 @@
-import Image from "next/image"
+ import Image from "next/image"
 
 import { ThumbUpIcon } from "@heroicons/react/outline"
 function Thumbnail({ result }) {
