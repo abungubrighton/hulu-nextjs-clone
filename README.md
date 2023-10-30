@@ -1,3 +1,7 @@
+# LINK: https://hulu-nextjs-clone-bwi62ssqq-brightonotienos-projects.vercel.app/
+![image](https://github.com/abungubrighton/hulu-nextjs-clone/assets/111748970/4b4bdd31-47d3-4170-ab8a-3bde04b210ea)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
